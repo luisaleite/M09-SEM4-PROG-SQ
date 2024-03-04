@@ -22,3 +22,6 @@ CONCEITOS APRENDIDOS
 5- Melhoria Contínua da Qualidade do Código: Aprenda como usar as informações fornecidas pelo SonarQube para orientar a equipe de desenvolvimento na implementação de melhores práticas de codificação e na melhoria contínua da qualidade do código.
 
 IMAGENS
+
+<img src='0.04.39_9e9c8967.jpg'>
+<img src='JU.jpg'>
